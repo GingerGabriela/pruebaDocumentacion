@@ -18,6 +18,8 @@ public class SerieDeAleatoriosD {
 	/*
 	 * 
 	 */
+	
+	
     private ArrayList<Integer> serieAleatoria;
 
 
